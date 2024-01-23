@@ -1,0 +1,4 @@
+URL = 'https://api.telegram.org/bot'
+TELEGRAM_LIMIT = 4096
+TOKEN = '6259852769:AAHZySqQfrU1sJKuOqSOIEuqZ-5PdL64cXA'
+CHAT_ID = '-809757683'
